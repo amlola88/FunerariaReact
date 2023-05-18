@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "nombre": "Urna de madera",
+        "descripcion": "Urna de madera sólida con acabado brillante",
+        "precio": 500,
+        "material": "Madera",
+        "dimensiones": "30cm x 20cm x 15cm",
+        "color": "Marrón oscuro"
+      },
+      {
+        "id":2,
+        "nombre": "Corona de flores",
+        "descripcion": "Corona de flores naturales con variedad de colores",
+        "precio": 200,
+        "tipo": "Flores naturales",
+        "dimensiones": "Diámetro: 60cm",
+        "color": "Blancas y amarillas."
+      },
+      {
+        "id":3,
+        "nombre": "Lámpara conmemorativa",
+        "descripcion": "Lámpara de mesa con base de mármol y placa conmemorativa",
+        "precio": 150,
+        "material": "Mármol y metal",
+        "dimensiones": "Altura: 40cm",
+        "color": "Plateado"
+      },
+      {
+        "id":4,
+        "nombre": "Libro de condolencias",
+        "descripcion": "Libro encuadernado en cuero para que los asistentes expresen sus condolencias",
+        "precio": 80,
+        "material": "Cuero y papel",
+        "dimensiones": "20cm x 15cm",
+        "color": "Negro"
+      },
+      {
+        "id":5,
+        "nombre": "Portafotos conmemorativo",
+        "descripcion": "Portafotos de cristal con grabado personalizado",
+        "precio": 50,
+        "material": "Cristal",
+        "dimensiones": "10cm x 15cm",
+        "color": "Transparente"
+      }
+      
+      
+      
+      
+      
+
+      
+
+      
+]

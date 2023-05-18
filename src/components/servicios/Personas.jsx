@@ -1,6 +1,5 @@
 import { useEffect,useState } from "react"
 
-
 const Personas = () => {
     const [personas,setPersonas]=useState([])
     const mostrarPersonas=async()=>{
@@ -19,7 +18,11 @@ const Personas = () => {
         {personas.map((personas)=>(
             <section key={personas.id} className="CardPersonas">
                 <h1>{personas.nombre}</h1>
-            </section> 
+                <p>{personas.descripcion}</p>
+                <p>{personas.precio}</p>
+                <p>{personas.tiempo}</p>
+                <p>{personas.ubicacion}</p>
+           </section> 
 
         ))}
                

@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "nombre": "Servicio de cremación individual",
+        "descripcion": "Cremación individual y entrega de las cenizas en una urna personalizada",
+        "precio": 150,
+        "duracion": "3 días",
+        "incluye": ["Cremación individual", "Urna personalizada", "Certificado de cremación"],
+        "condiciones": "Se requiere cita previa. No se permite la presencia del propietario durante la cremación."
+      },
+      {
+        "id":2,
+        "nombre": "Servicio de entierro en cementerio",
+        "descripcion": "Entierro en un cementerio para mascotas con lápida y servicio conmemorativo",
+        "precio": 200,
+        "duracion": "4 días",
+        "incluye": ["Entierro en cementerio", "Lápida personalizada", "Servicio conmemorativo"],
+        "condiciones": "El cementerio cuenta con áreas específicas para cada especie de mascota. Se requiere elegir un paquete de lápida."
+      },
+      {
+        "id":3,
+        "nombre": "Servicio de incineración colectiva",
+        "descripcion": "Incineración colectiva y esparcimiento de cenizas en un jardín conmemorativo",
+        "precio": 100,
+        "duracion": "2 días",
+        "incluye": ["Incineración colectiva", "Esparcimiento de cenizas en jardín conmemorativo"],
+        "condiciones": "Las cenizas se esparcen en un área designada del jardín conmemorativo sin opción de recuperarlas."                     
+      },
+      {
+        "id":4,
+        "nombre": "Servicio de despedida íntima",
+        "descripcion": "Ceremonia privada de despedida en una sala conmemorativa",
+        "precio": 80,
+        "duracion": "2 horas",
+        "incluye": ["Sala conmemorativa", "Ataúd", "Asistencia en la ceremonia"],
+        "condiciones": "La sala conmemorativa puede albergar hasta un máximo de 10 personas."
+      },
+      {
+        "id":5,
+        "nombre": "Servicio de transporte y recogida",
+        "descripcion": "Recogida del cuerpo de la mascota y transporte al lugar deseado",
+        "precio": 50,
+        "duracion": "1 día",
+        "incluye": ["Recogida del cuerpo", "Transporte al lugar deseado"],
+        "condiciones": "El lugar de recogida y destino debe estar dentro del área de servicio de la funeraria."
+      }      
+]
