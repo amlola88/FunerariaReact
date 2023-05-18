@@ -1,0 +1,43 @@
+[
+    {
+      "id":1,
+      "nombre": "Servicio de cremación",      
+      "descripcion": "Incluye cremación del cuerpo y entrega de las cenizas en una urna.",
+      "precio": 1500,
+      "tiempo": "3 días",
+      "ubicacion": "Crematorio ABC",
+      "imagen": "url_imagen_cremacion.jpg"
+    },
+    {
+      "nombre": "Servicio de sepelio",
+      "descripcion": "Incluye ataúd, servicio de velatorio y traslado al cementerio.",
+      "precio": 2500,
+      "tiempo": "5 días",
+      "ubicacion": "Funeraria XYZ",
+      "imagen": "url_imagen_sepelio.jpg"
+    },
+    {
+      "nombre": "Servicio de embalsamamiento",
+      "descripcion": "Preparación y conservación del cuerpo para el velatorio.",
+      "precio": 800,
+      "tiempo": "1 día",
+      "ubicacion": "Funeraria ABC",
+      "imagen": "url_imagen_embalsamamiento.jpg"
+    },
+    {
+      "nombre": "Servicio de velatorio en casa",
+      "descripcion": "Montaje de una sala de velatorio en la residencia del fallecido.",
+      "precio": 1200,
+      "tiempo": "2 días",
+      "ubicacion": "Funeraria XYZ",
+      "imagen": "url_imagen_velatorio_casa.jpg"
+    },
+    {
+      "nombre": "Servicio de traslado nacional",
+      "descripcion": "Traslado del cuerpo a cualquier parte del país.",
+      "precio": 1800,
+      "tiempo": "4 días",
+      "ubicacion": "Funeraria ABC",
+      "imagen": "url_imagen_traslado_nacional.jpg"
+    }
+  ]
