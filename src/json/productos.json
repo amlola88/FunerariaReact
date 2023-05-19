@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "nombre": "Urna de madera",
+        "nombre": "Urna funeraria",
         "descripcion": "Urna de madera sólida con acabado brillante",
         "precio": 500,
         "material": "Madera",
@@ -43,14 +43,125 @@
         "material": "Cristal",
         "dimensiones": "10cm x 15cm",
         "color": "Transparente"
-      }
-      
-      
-      
-      
-      
-
-      
-
-      
+      },
+      {
+        "id":6,
+        "nombre": "Incienso conmemorativo",
+        "descripcion": "Incienso perfumado para crear un ambiente tranquilo y sereno en la sala de velación.",
+        "precio": 7.99,        
+        "material": "Resina",
+        "dimensiones": "15 cm de longitud"
+      },
+      {
+        "id":7,
+        "nombre": "Retrato conmemorativo",       
+        "descripcion": "Retrato impreso en lienzo para recordar al difunto en la sala de velación.",
+        "precio": 79.99,
+        "material": "Lienzo",
+        "dimensiones": "60 cm x 40 cm"
+      },
+      {
+        "id":8,
+        "nombre": "Almohada conmemorativa",
+        "descripcion": "Almohada decorativa con diseño conmemorativo para colocar sobre el ataúd.",
+        "precio": 29.99,
+        "material": "Tela",
+        "dimensiones": "50 cm x 30 cm"
+      },
+      {
+        "id":9,
+        "nombre": "Arreglo floral",        
+        "descripcion": "Arreglo floral en jarrón de cristal para decorar la sala de velación.",
+        "precio": 39.99,
+        "material": "Flores naturales",
+        "dimensiones": "40 cm de altura"
+      },
+      {
+        "id":10,
+        "nombre": "Vela conmemorativa",        
+        "descripcion": "Vela perfumada con etiqueta personalizable para honrar al difunto.",
+        "precio": 9.99,
+        "material": "Cera",
+        "dimensiones": "10 cm de altura"
+      },
+      {
+        "id":11,
+        "nombre": "Ataúd de madera clásico",
+        "material": "Madera",
+        "color": "Marrón oscuro",
+        "dimensiones": "Standard",
+        "precio": 999.99
+      },
+      {
+        "id":12,
+        "nombre": "Ataúd metálico premium",
+        "material": "Metal",
+        "color": "Plata",
+        "dimensiones": "Standard",
+        "precio": 1499.99
+      },
+      {
+        "id":13,
+        "nombre": "Ataúd ecológico de bambú",
+        "material": "Bambú",
+        "color": "Natural",
+        "dimensiones": "Standard",
+        "precio": 1299.99
+      },
+      {
+        "id":14,
+        "nombre": "Ataúd de estilo renacentista",
+        "material": "Madera",
+        "color": "Negro",
+        "dimensiones": "Standard",
+        "precio": 1799.99
+      },
+      {
+        "id":15,
+        "nombre": "Ataúd infantil",
+        "material": "Madera",
+        "color": "Blanco",
+        "dimensiones": "Pequeño",
+        "precio": 699.99
+      },
+      {
+        "id":16,
+        "nombre": "Ataúd de acero inoxidable",
+        "material": "Acero inoxidable",
+        "color": "Plata",
+        "dimensiones": "Standard",
+        "precio": 1899.99
+      },
+      {
+        "id":17,
+        "nombre": "Ataúd de lujo chapado en oro",
+        "material": "Madera",
+        "color": "Oro",
+        "dimensiones": "Standard",
+        "precio": 2999.99
+      },
+      {
+        "id":18,
+        "nombre": "Ataúd de estilo victoriano",
+        "material": "Madera",
+        "color": "Caoba",
+        "dimensiones": "Standard",
+        "precio": 2499.99
+      },
+      {
+        "id":19,
+        "nombre": "Ataúd plegable",
+        "material": "Madera",
+        "color": "Natural",
+        "dimensiones": "Standard",
+        "precio": 1199.99
+      },
+      {
+        "id":20,
+        "nombre": "Ataúd de estilo gótico",
+        "material": "Madera",
+        "color": "Negro",
+        "dimensiones": "Standard",
+        "precio": 2099.99
+      }   
 ]

@@ -23,6 +23,7 @@ const Productos = () => {
             <p>{productos.precio}</p>
             <p>{productos.tipo}</p>
             <p>{productos.dimensiones}</p>
+            <p>{productos.material}</p>
             <p>{productos.color}</p>
        </section> 
 
