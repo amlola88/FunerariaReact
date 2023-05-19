@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "nombre": "Bosque Cenizario 1",
+        "ubicacion": "Bosque de Robles",
+        "precio": 1500,
+        "descripcion": "Servicio funerario en el Bosque de Robles",
+        "incluye": ["Ceremonia de despedida", "Entierro en área designada", "Certificado de defunción"]
+    },
+    {
+        "id":2,
+        "nombre": "Bosque Cenizario 2",
+        "ubicacion": "Bosque de Secuoyas",
+        "precio": 1800,
+        "descripcion": "Servicio funerario en el Bosque de Secuoyas",
+        "incluye": ["Ceremonia personalizada", "Entierro en área ajardinada", "Certificado de defunción"]
+      },
+      {
+        "id":3,
+        "nombre": "Bosque Cenizario 3",
+        "ubicacion": "Bosque de Pinos",
+        "precio": 1200,
+        "descripcion": "Servicio funerario en el Bosque de Pinos",
+        "incluye": ["Ceremonia de despedida", "Entierro en área especial", "Certificado de defunción"]
+      },
+      {
+        "id":4,
+        "nombre": "Bosque Cenizario 4",
+        "ubicacion": "Bosque de Abedules",
+        "precio": 900,
+        "descripcion": "Servicio funerario en el Bosque de Abedules",
+        "incluye": ["Ceremonia íntima", "Entierro en área tranquila", "Certificado de defunción"]
+      },
+      {
+        "id":5,
+        "nombre": "Bosque Cenizario 5",
+        "ubicacion": "Bosque de Cerezos",
+        "precio": 1800,
+        "descripcion": "Servicio funerario en el Bosque de Cerezos",
+        "incluye": ["Ceremonia personalizada", "Entierro en área ajardinada", "Certificado de defunción"]
+      },
+      {
+        "id":6,
+        "nombre": "Bosque Cenizario 6",
+        "ubicacion": "Bosque de Eucaliptos",
+        "precio": 1600,
+        "descripcion": "Servicio funerario en el Bosque de Eucaliptos",
+        "incluye": ["Ceremonia de despedida", "Entierro en área designada", "Certificado de defunción"]
+      },
+      {
+        "id":7,
+        "nombre": "Bosque Cenizario 7",
+        "ubicacion": "Bosque de Hayas",
+        "precio": 1700,
+        "descripcion": "Servicio funerario en el Bosque de Hayas",
+        "incluye": ["Ceremonia de despedida", "Entierro en área designada", "Certificado de defunción"]
+      },
+      {
+        "id":8,
+        "nombre": "Bosque Cenizario 8",
+        "ubicacion": "Bosque de Olivos",
+        "precio": 1700,
+        "descripcion": "Servicio funerario en el Bosque de Olivos",
+        "incluye": ["Ceremonia de despedida", "Entierro en área designada", "Certificado de defunción"]
+      },
+      {
+        "id":9,
+        "nombre": "Entierro en Cápsula Biodegradable 1",
+        "ubicacion": "Cementerio del Bosque",
+        "precio": 2000,
+        "descripcion": "Entierro en cápsula biodegradable en el Cementerio del Bosque",
+        "incluye": ["Cápsula biodegradable", "Servicio de sepelio", "Certificado de defunción"]
+      },
+      {
+        "id":10,
+        "nombre": "Entierro en Cápsula Biodegradable 2",
+        "ubicacion": "Cementerio Ecológico",
+        "precio": 1800,
+        "descripcion": "Entierro en cápsula biodegradable en el Cementerio Ecológico",
+        "incluye": ["Cápsula biodegradable", "Servicio de sepelio", "Certificado de defunción"]
+      }
+    
+]

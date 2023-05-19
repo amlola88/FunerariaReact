@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "nombre": "Cenizas al mar 1",
+        "ubicacion": "Mar Mediterráneo",
+        "precio": 1500,
+        "descripcion": "Plan de cenizas al mar básico en el Mar Mediterráneo",
+        "incluye": ["Ceremonia de despedida", "Dispensador de cenizas", "Certificado de dispersión"]
+    },
+    {
+        "id":2,
+        "nombre": "Cenizas al mar 2",
+        "ubicacion": "Océano Atlántico",
+        "precio": 1800,
+        "descripcion": "Plan de cenizas al mar premium en el Océano Atlántico",
+        "incluye": ["Ceremonia personalizada", "Dispensador de cenizas biodegradable", "Certificado de dispersión", "Fotografía del evento"]
+    },
+    {
+        "id":3,
+        "nombre": "Cenizas al mar 3",
+        "ubicacion": "Mar de Coral",
+        "precio": 1200,
+        "descripcion": "Plan de cenizas al mar estándar en el Mar de Coral",
+        "incluye": ["Ceremonia de despedida", "Dispensador de cenizas", "Certificado de dispersión"]
+    },
+    {
+        "id":4,
+        "nombre": "Cenizas al mar 4",
+        "ubicacion": "Océano Pacífico",
+        "precio": 2000,
+        "descripcion": "Plan de cenizas al mar premium en el Océano Pacífico",
+        "incluye": ["Ceremonia personalizada", "Dispensador de cenizas biodegradable", "Certificado de dispersión", "Asistencia de un guía"]
+      },
+      {
+        "id":5,
+        "nombre": "Cenizas al mar 5",
+        "ubicacion": "Mar del Norte",
+        "precio": 1600,
+        "descripcion": "Plan de cenizas al mar en el Mar del Norte",
+        "incluye": ["Ceremonia de despedida", "Dispensador de cenizas", "Certificado de dispersión", "Registro fotográfico"]
+      },
+      {
+        "id":6,
+        "nombre": "Cenizas al mar 6",
+        "ubicacion": "Mar de Bering",
+        "precio": 2200,
+        "descripcion": "Plan de cenizas al mar premium en el Mar de Bering",
+        "incluye": ["Ceremonia personalizada", "Dispensador de cenizas biodegradable", "Certificado de dispersión", "Servicio de transporte"]
+      },
+      {
+        "id":7,
+        "nombre": "Cenizas al mar 7",
+        "ubicacion": "Mar Caribe",
+        "precio": 1700,
+        "descripcion": "Plan de cenizas al mar en el Mar Caribe",
+        "incluye": ["Ceremonia de despedida", "Dispensador de cenizas", "Certificado de dispersión"]
+      },
+      {
+        "id":8,
+        "nombre": "Cenizas al mar 8",
+        "ubicacion": "Mar en la reserva Tairona",
+        "precio": 1700,
+        "descripcion": "Plan de cenizas al mar en la reserva Tairona",
+        "incluye": ["Ceremonia de despedida", "Dispensador de cenizas", "Certificado de dispersión"]
+      },
+      {
+        "id":9,
+        "nombre": "Servicio para depositar Cenizas en Manantial 1",
+        "ubicacion": "Manantial de Aguas Claras",
+        "precio": 1500,
+        "descripcion": "Servicio para tirar las cenizas de seres queridos en el Manantial de Aguas Claras",
+        "incluye": ["Ceremonia de despedida", "Tirar cenizas en el manantial", "Certificado de dispersión"]
+      },
+      {
+        "id":10,
+        "nombre": "Servicio para depositar Cenizas en Manantial 2",
+        "ubicacion": "Manantial de la Cascada",
+        "precio": 1800,
+        "descripcion": "Servicio para tirar las cenizas de seres queridos en el Manantial de la Cascada",
+        "incluye": ["Ceremonia personalizada", "Tirar cenizas en el manantial", "Certificado de dispersión"]
+      }
+    
+]
