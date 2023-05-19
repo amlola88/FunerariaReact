@@ -6,7 +6,7 @@ const Menu = () => {
     return (
         <section className="menu"> 
           
-                <Link to={"/Inicio"}>Inicio</Link> 
+                <Link to={"/"}>Inicio</Link> 
                 <Link to={"/Personas"}>Personas</Link> 
                 <Link to={"/Mascotas"}>Mascotas</Link> 
                 <Link to={"/Productos"}>Productos</Link>

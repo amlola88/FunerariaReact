@@ -8,7 +8,7 @@ import CenizasMar from "./components/servicios/CenizasMar"
 
 const router=createBrowserRouter([
   {
-    path:"/Header",
+    path:"/",
     element:<Header/>
   },
   {
@@ -38,9 +38,10 @@ const router=createBrowserRouter([
 function App() {
 
   return (
-    <>
+    <section>
       <RouterProvider router={router}/>
-    </>
+    </section>
+         
   )
 }
 

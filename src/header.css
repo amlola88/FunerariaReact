@@ -1,0 +1,33 @@
+.header{
+    display: flex;
+    flex-direction: row;   
+    background-color:rgba(36, 11, 36, 0.51)
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 20px;
+    object-fit: cover;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+}
+
+.menu a{
+    
+    padding: 30px;
+    text-decoration: none;
+ 
+}
+
+.menu a:hover{
+    background-color: rgb(130, 115, 143);
+
+}

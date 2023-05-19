@@ -1,4 +1,5 @@
 import { useEffect,useState } from "react"
+import Header from "../header/Header";
 
 const CenizasMar = () => {
     const [cenizasMar,setCenizasMar]=useState([])
@@ -13,7 +14,8 @@ const CenizasMar = () => {
     }
     useEffect(()=>{mostrarCenizasMar()},[])
   return (
-    <div className="cenizasMar">
+    <div>
+      <Header/>
     {cenizasMar.map((cenizasMar)=>(
         <section key={cenizasMar.id} className="CardCenizasMar">
             <h1>{cenizasMar.nombre}</h1>

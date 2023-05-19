@@ -1,4 +1,5 @@
 import { useEffect,useState } from "react"
+import Header from "../header/Header"
 
 const Mascotas = () => {
     const [mascotas,setMascotas]=useState([])
@@ -13,7 +14,8 @@ const Mascotas = () => {
     }
     useEffect(()=>{mostrarMascotas()},[])
   return (
-    <div className="mascotas">
+    <div>
+        <Header/>
         {mascotas.map((mascotas)=>(
             <section key={mascotas.id} className="CardMascotas">
                 <h1>{mascotas.nombre}</h1>

@@ -1,4 +1,5 @@
 import { useEffect,useState } from "react"
+import Header from "../header/Header"
 
 const BosqueCenizario = () => {
     const [bosqueCenizario,setBosqueCenizario]=useState([])
@@ -13,7 +14,8 @@ const BosqueCenizario = () => {
     }
     useEffect(()=>{mostrarBosqueCenizario()},[])
   return (
-    <div className="bosqueCenizario">
+    <div>
+      <Header/>
     {bosqueCenizario.map((bosqueCenizario)=>(
         <section key={bosqueCenizario.id} className="CardbosqueCenizario">
             <h1>{bosqueCenizario.nombre}</h1>

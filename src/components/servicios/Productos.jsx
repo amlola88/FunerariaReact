@@ -1,4 +1,5 @@
 import { useEffect,useState } from "react"
+import Header from "../header/Header"
 
 const Productos = () => {
     const [productos,setProductos]=useState([])
@@ -13,7 +14,8 @@ const Productos = () => {
     }
     useEffect(()=>{mostrarProductos()},[])
   return (
-    <div className="productos">
+    <div>
+      <Header/>
     {productos.map((productos)=>(
         <section key={productos.id} className="CardProductos">
             <h1>{productos.nombre}</h1>
