@@ -24,6 +24,7 @@ const Mascotas = () => {
                 <p>{mascotas.duracion}</p>
                 <p>{mascotas.incluye}</p>
                 <p>{mascotas.condiciones}</p>
+                <img className="imggeneral" src={mascotas.img}/>
             </section> 
 
         ))}

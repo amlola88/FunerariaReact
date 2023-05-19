@@ -22,7 +22,8 @@ const CenizasMar = () => {
             <p>{cenizasMar.ubicacion}</p>
             <p>{cenizasMar.precio}</p>
             <p>{cenizasMar.descripcion}</p>
-            <p>{cenizasMar.incluye}</p>            
+            <p>{cenizasMar.incluye}</p>
+            <img className="imggeneral" src={cenizasMar.img}/>            
        </section> 
 
     ))}

@@ -24,6 +24,7 @@ const Personas = () => {
                 <p>{personas.precio}</p>
                 <p>{personas.tiempo}</p>
                 <p>{personas.ubicacion}</p>
+                <img className="imggeneral" src={personas.img}/>
            </section> 
 
         ))}

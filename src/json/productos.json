@@ -6,7 +6,8 @@
         "precio": 500,
         "material": "Madera",
         "dimensiones": "30cm x 20cm x 15cm",
-        "color": "Marrón oscuro"
+        "color": "Marrón oscuro",
+        "img":"https://www.disflor.com.mx/wp-content/uploads/2020/09/148028lx.jpg"
       },
       {
         "id":2,
@@ -15,7 +16,8 @@
         "precio": 200,
         "tipo": "Flores naturales",
         "dimensiones": "Diámetro: 60cm",
-        "color": "Blancas y amarillas."
+        "color": "Blancas y amarillas.",
+        "img":"https://m1.paperblog.com/i/689/6897027/tendencias-futuro-coronas-funerarias-L-17tc_v.jpeg"
       },
       {
         "id":3,
@@ -24,7 +26,8 @@
         "precio": 150,
         "material": "Mármol y metal",
         "dimensiones": "Altura: 40cm",
-        "color": "Plateado"
+        "color": "Plateado",
+        "img":"https://ae01.alicdn.com/kf/HTB1R5lVajuhSKJjSspmq6AQDpXaX.jpg?size=553102&height=800&width=800&hash=ad81712a4715a849affb11df10073116"
       },
       {
         "id":4,
@@ -33,7 +36,8 @@
         "precio": 80,
         "material": "Cuero y papel",
         "dimensiones": "20cm x 15cm",
-        "color": "Negro"
+        "color": "Negro",
+        "img":"https://m1.paperblog.com/i/689/6897027/tendencias-futuro-coronas-funerarias-L-17tc_v.jpeg"
       },
       {
         "id":5,
@@ -42,7 +46,8 @@
         "precio": 50,
         "material": "Cristal",
         "dimensiones": "10cm x 15cm",
-        "color": "Transparente"
+        "color": "Transparente",
+        "img":"https://img.freepik.com/foto-gratis/vista-superior-marco-imagen-lazo-negro-pared-oscura_179666-40059.jpg"
       },
       {
         "id":6,
@@ -50,7 +55,8 @@
         "descripcion": "Incienso perfumado para crear un ambiente tranquilo y sereno en la sala de velación.",
         "precio": 7.99,        
         "material": "Resina",
-        "dimensiones": "15 cm de longitud"
+        "dimensiones": "15 cm de longitud",
+        "img":"https://ae01.alicdn.com/kf/S8e0e3f24500d4c33acbad6a850931105h/Quemador-de-incienso-Retro-de-cobre-con-bolsillo-de-loto-soporte-de-lat-n-con-cubierta.jpg"
       },
       {
         "id":7,
@@ -58,7 +64,8 @@
         "descripcion": "Retrato impreso en lienzo para recordar al difunto en la sala de velación.",
         "precio": 79.99,
         "material": "Lienzo",
-        "dimensiones": "60 cm x 40 cm"
+        "dimensiones": "60 cm x 40 cm",
+        "img":"https://img.freepik.com/foto-gratis/vista-superior-marco-imagen-lazo-negro-pared-oscura_179666-40059.jpg"
       },
       {
         "id":8,
@@ -66,7 +73,8 @@
         "descripcion": "Almohada decorativa con diseño conmemorativo para colocar sobre el ataúd.",
         "precio": 29.99,
         "material": "Tela",
-        "dimensiones": "50 cm x 30 cm"
+        "dimensiones": "50 cm x 30 cm",
+       "img":"https://floreriapatsy.com/wp-content/uploads/2021/04/4e1b42c15b1b1222962141f80fb800a4.jpg"
       },
       {
         "id":9,
@@ -74,7 +82,8 @@
         "descripcion": "Arreglo floral en jarrón de cristal para decorar la sala de velación.",
         "precio": 39.99,
         "material": "Flores naturales",
-        "dimensiones": "40 cm de altura"
+        "dimensiones": "40 cm de altura",
+        "img":"https://magentaflores.com/wp-content/uploads/2020/10/arreglos-florales-funebres.png"
       },
       {
         "id":10,
@@ -82,7 +91,8 @@
         "descripcion": "Vela perfumada con etiqueta personalizable para honrar al difunto.",
         "precio": 9.99,
         "material": "Cera",
-        "dimensiones": "10 cm de altura"
+        "dimensiones": "10 cm de altura",
+        "img":"https://elements-video-cover-images-0.imgix.net/files/244989221/preview.jpg?auto=compress&crop=edges&fit=crop&fm=jpeg&h=630&w=1200&s=d8a7e83255512381a71e24482156ab4c"
       },
       {
         "id":11,
@@ -90,7 +100,8 @@
         "material": "Madera",
         "color": "Marrón oscuro",
         "dimensiones": "Standard",
-        "precio": 999.99
+        "precio": 999.99,
+        "img":"https://www.lhlic.com/wp-content/uploads/2020/10/iStock-452685585-scaled.jpg"
       },
       {
         "id":12,
@@ -98,7 +109,8 @@
         "material": "Metal",
         "color": "Plata",
         "dimensiones": "Standard",
-        "precio": 1499.99
+        "precio": 1499.99,
+        "img":"https://www.lhlic.com/wp-content/uploads/2020/10/iStock-452685585-scaled.jpg"
       },
       {
         "id":13,
@@ -106,7 +118,8 @@
         "material": "Bambú",
         "color": "Natural",
         "dimensiones": "Standard",
-        "precio": 1299.99
+        "precio": 1299.99,
+        "img":"https://www.lhlic.com/wp-content/uploads/2020/10/iStock-452685585-scaled.jpg"
       },
       {
         "id":14,
@@ -114,7 +127,8 @@
         "material": "Madera",
         "color": "Negro",
         "dimensiones": "Standard",
-        "precio": 1799.99
+        "precio": 1799.99,
+        "img":"https://www.lhlic.com/wp-content/uploads/2020/10/iStock-452685585-scaled.jpg"
       },
       {
         "id":15,
@@ -122,7 +136,8 @@
         "material": "Madera",
         "color": "Blanco",
         "dimensiones": "Pequeño",
-        "precio": 699.99
+        "precio": 699.99,
+        "img":"https://www.lhlic.com/wp-content/uploads/2020/10/iStock-452685585-scaled.jpg"
       },
       {
         "id":16,
@@ -130,7 +145,8 @@
         "material": "Acero inoxidable",
         "color": "Plata",
         "dimensiones": "Standard",
-        "precio": 1899.99
+        "precio": 1899.99,
+        "img":"https://www.lhlic.com/wp-content/uploads/2020/10/iStock-452685585-scaled.jpg"
       },
       {
         "id":17,
@@ -138,7 +154,8 @@
         "material": "Madera",
         "color": "Oro",
         "dimensiones": "Standard",
-        "precio": 2999.99
+        "precio": 2999.99,
+        "img":"https://www.lhlic.com/wp-content/uploads/2020/10/iStock-452685585-scaled.jpg"
       },
       {
         "id":18,
@@ -146,7 +163,8 @@
         "material": "Madera",
         "color": "Caoba",
         "dimensiones": "Standard",
-        "precio": 2499.99
+        "precio": 2499.99,
+        "img":"https://www.lhlic.com/wp-content/uploads/2020/10/iStock-452685585-scaled.jpg"
       },
       {
         "id":19,
@@ -154,7 +172,8 @@
         "material": "Madera",
         "color": "Natural",
         "dimensiones": "Standard",
-        "precio": 1199.99
+        "precio": 1199.99,
+        "img":"https://www.lhlic.com/wp-content/uploads/2020/10/iStock-452685585-scaled.jpg"
       },
       {
         "id":20,
@@ -162,6 +181,7 @@
         "material": "Madera",
         "color": "Negro",
         "dimensiones": "Standard",
-        "precio": 2099.99
+        "precio": 2099.99,
+        "img":"https://www.lhlic.com/wp-content/uploads/2020/10/iStock-452685585-scaled.jpg"
       }   
 ]

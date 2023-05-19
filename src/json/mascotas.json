@@ -6,7 +6,8 @@
         "precio": 150,
         "duracion": "3 días",
         "incluye": ["Cremación individual", "Urna personalizada", "Certificado de cremación"],
-        "condiciones": "Se requiere cita previa. No se permite la presencia del propietario durante la cremación."
+        "condiciones": "Se requiere cita previa. No se permite la presencia del propietario durante la cremación.",
+        "img":"https://ciudadviva.mx/wp-content/uploads/2017/11/funerales-para-mascotas.jpg"
       },
       {
         "id":2,
@@ -15,7 +16,8 @@
         "precio": 200,
         "duracion": "4 días",
         "incluye": ["Entierro en cementerio", "Lápida personalizada", "Servicio conmemorativo"],
-        "condiciones": "El cementerio cuenta con áreas específicas para cada especie de mascota. Se requiere elegir un paquete de lápida."
+        "condiciones": "El cementerio cuenta con áreas específicas para cada especie de mascota. Se requiere elegir un paquete de lápida.",
+        "img":"https://ciudadviva.mx/wp-content/uploads/2017/11/funerales-para-mascotas.jpg"
       },
       {
         "id":3,
@@ -24,7 +26,8 @@
         "precio": 100,
         "duracion": "2 días",
         "incluye": ["Incineración colectiva", "Esparcimiento de cenizas en jardín conmemorativo"],
-        "condiciones": "Las cenizas se esparcen en un área designada del jardín conmemorativo sin opción de recuperarlas."                     
+        "condiciones": "Las cenizas se esparcen en un área designada del jardín conmemorativo sin opción de recuperarlas.",
+        "img":"https://ciudadviva.mx/wp-content/uploads/2017/11/funerales-para-mascotas.jpg"                     
       },
       {
         "id":4,
@@ -33,7 +36,8 @@
         "precio": 80,
         "duracion": "2 horas",
         "incluye": ["Sala conmemorativa", "Ataúd", "Asistencia en la ceremonia"],
-        "condiciones": "La sala conmemorativa puede albergar hasta un máximo de 10 personas."
+        "condiciones": "La sala conmemorativa puede albergar hasta un máximo de 10 personas.",
+        "img":"https://ciudadviva.mx/wp-content/uploads/2017/11/funerales-para-mascotas.jpg"
       },
       {
         "id":5,
@@ -42,6 +46,7 @@
         "precio": 50,
         "duracion": "1 día",
         "incluye": ["Recogida del cuerpo", "Transporte al lugar deseado"],
-        "condiciones": "El lugar de recogida y destino debe estar dentro del área de servicio de la funeraria."
+        "condiciones": "El lugar de recogida y destino debe estar dentro del área de servicio de la funeraria.",
+        "img":"https://ciudadviva.mx/wp-content/uploads/2017/11/funerales-para-mascotas.jpg"
       }      
 ]

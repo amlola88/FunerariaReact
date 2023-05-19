@@ -6,7 +6,8 @@
       "precio": 1500,
       "tiempo": "El tiempo estimado es de 3 días",
       "ubicacion": "Lugar: Crematorio ABC",
-      "imagen": "url_imagen_cremacion.jpg"
+      "imagen": "url_imagen_cremacion.jpg",
+      "img":"https://www.dignitymemorial.com/dfsmedia/042808e1630c49a48950d5077d6556eb/22244-50065"
     },
     {
       "id":2,
@@ -15,7 +16,8 @@
       "precio": 2500,
       "tiempo": "5 días",
       "ubicacion": "Funeraria XYZ",
-      "imagen": "url_imagen_sepelio.jpg"
+      "imagen": "url_imagen_sepelio.jpg",
+      "img":"https://corprensa-la-prensa-prod.cdn.arcpublishing.com/resizer/xRxs9WGyURsmoNNSYwRwLBchceI=/fit-in/1200x1200/smart/cloudfront-us-east-1.images.arcpublishing.com/corprensa/2FWYVHIPGVGDHCHV3BCEE4BDWI.jpg"
     },
     {
       "id":3,
@@ -24,7 +26,8 @@
       "precio": 800,
       "tiempo": "1 día",
       "ubicacion": "Funeraria ABC",
-      "imagen": "url_imagen_embalsamamiento.jpg"
+      "imagen": "url_imagen_embalsamamiento.jpg",
+      "img":"https://www.dignitymemorial.com/dfsmedia/042808e1630c49a48950d5077d6556eb/22244-50065"
     },
     {
       "id":4,
@@ -33,7 +36,8 @@
       "precio": 1200,
       "tiempo": "2 días",
       "ubicacion": "Funeraria XYZ",
-      "imagen": "url_imagen_velatorio_casa.jpg"
+      "imagen": "url_imagen_velatorio_casa.jpg",
+      "img":"https://corprensa-la-prensa-prod.cdn.arcpublishing.com/resizer/xRxs9WGyURsmoNNSYwRwLBchceI=/fit-in/1200x1200/smart/cloudfront-us-east-1.images.arcpublishing.com/corprensa/2FWYVHIPGVGDHCHV3BCEE4BDWI.jpg"
     },
     {
       "id":5,
@@ -42,6 +46,7 @@
       "precio": 1800,
       "tiempo": "4 días",
       "ubicacion": "Funeraria ABC",
-      "imagen": "url_imagen_traslado_nacional.jpg"
+      "imagen": "url_imagen_traslado_nacional.jpg",
+      "img":"https://www.dignitymemorial.com/dfsmedia/042808e1630c49a48950d5077d6556eb/22244-50065"
     }
   ]

@@ -25,6 +25,8 @@ const Productos = () => {
             <p>{productos.dimensiones}</p>
             <p>{productos.material}</p>
             <p>{productos.color}</p>
+            <img className="imggeneral" src={productos.img}/>
+
        </section> 
 
     ))}

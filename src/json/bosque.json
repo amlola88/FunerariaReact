@@ -5,7 +5,8 @@
         "ubicacion": "Bosque de Robles",
         "precio": 1500,
         "descripcion": "Servicio funerario en el Bosque de Robles",
-        "incluye": ["Ceremonia de despedida", "Entierro en área designada", "Certificado de defunción"]
+        "incluye": ["Ceremonia de despedida", "Entierro en área designada", "Certificado de defunción"],
+        "img":"https://capillasdelafe.com/static_files/xeki_admin/upload/bosque-arbolmultiple.jpg"
     },
     {
         "id":2,
@@ -13,7 +14,8 @@
         "ubicacion": "Bosque de Secuoyas",
         "precio": 1800,
         "descripcion": "Servicio funerario en el Bosque de Secuoyas",
-        "incluye": ["Ceremonia personalizada", "Entierro en área ajardinada", "Certificado de defunción"]
+        "incluye": ["Ceremonia personalizada", "Entierro en área ajardinada", "Certificado de defunción"],
+        "img":"https://capillasdelafe.com/static_files/xeki_admin/upload/bosque-arbolmultiple.jpg"
       },
       {
         "id":3,
@@ -21,7 +23,8 @@
         "ubicacion": "Bosque de Pinos",
         "precio": 1200,
         "descripcion": "Servicio funerario en el Bosque de Pinos",
-        "incluye": ["Ceremonia de despedida", "Entierro en área especial", "Certificado de defunción"]
+        "incluye": ["Ceremonia de despedida", "Entierro en área especial", "Certificado de defunción"],
+        "img":"https://capillasdelafe.com/static_files/xeki_admin/upload/bosque-arbolmultiple.jpg"
       },
       {
         "id":4,
@@ -29,7 +32,8 @@
         "ubicacion": "Bosque de Abedules",
         "precio": 900,
         "descripcion": "Servicio funerario en el Bosque de Abedules",
-        "incluye": ["Ceremonia íntima", "Entierro en área tranquila", "Certificado de defunción"]
+        "incluye": ["Ceremonia íntima", "Entierro en área tranquila", "Certificado de defunción"],
+        "img":"https://capillasdelafe.com/static_files/xeki_admin/upload/bosque-arbolmultiple.jpg"
       },
       {
         "id":5,
@@ -37,7 +41,8 @@
         "ubicacion": "Bosque de Cerezos",
         "precio": 1800,
         "descripcion": "Servicio funerario en el Bosque de Cerezos",
-        "incluye": ["Ceremonia personalizada", "Entierro en área ajardinada", "Certificado de defunción"]
+        "incluye": ["Ceremonia personalizada", "Entierro en área ajardinada", "Certificado de defunción"],
+        "img":"https://capillasdelafe.com/static_files/xeki_admin/upload/bosque-arbolmultiple.jpg"
       },
       {
         "id":6,
@@ -45,7 +50,8 @@
         "ubicacion": "Bosque de Eucaliptos",
         "precio": 1600,
         "descripcion": "Servicio funerario en el Bosque de Eucaliptos",
-        "incluye": ["Ceremonia de despedida", "Entierro en área designada", "Certificado de defunción"]
+        "incluye": ["Ceremonia de despedida", "Entierro en área designada", "Certificado de defunción"],
+        "img":"https://capillasdelafe.com/static_files/xeki_admin/upload/bosque-arbolmultiple.jpg"
       },
       {
         "id":7,
@@ -53,7 +59,8 @@
         "ubicacion": "Bosque de Hayas",
         "precio": 1700,
         "descripcion": "Servicio funerario en el Bosque de Hayas",
-        "incluye": ["Ceremonia de despedida", "Entierro en área designada", "Certificado de defunción"]
+        "incluye": ["Ceremonia de despedida", "Entierro en área designada", "Certificado de defunción"],
+        "img":"https://capillasdelafe.com/static_files/xeki_admin/upload/bosque-arbolmultiple.jpg"
       },
       {
         "id":8,
@@ -61,7 +68,8 @@
         "ubicacion": "Bosque de Olivos",
         "precio": 1700,
         "descripcion": "Servicio funerario en el Bosque de Olivos",
-        "incluye": ["Ceremonia de despedida", "Entierro en área designada", "Certificado de defunción"]
+        "incluye": ["Ceremonia de despedida", "Entierro en área designada", "Certificado de defunción"],
+        "img":"https://capillasdelafe.com/static_files/xeki_admin/upload/bosque-arbolmultiple.jpg"
       },
       {
         "id":9,
@@ -69,7 +77,8 @@
         "ubicacion": "Cementerio del Bosque",
         "precio": 2000,
         "descripcion": "Entierro en cápsula biodegradable en el Cementerio del Bosque",
-        "incluye": ["Cápsula biodegradable", "Servicio de sepelio", "Certificado de defunción"]
+        "incluye": ["Cápsula biodegradable", "Servicio de sepelio", "Certificado de defunción"],
+        "img":"https://cnnespanol.cnn.com/wp-content/uploads/2017/05/170424132824-capsula-mundi-three-eggs-exlarge-169.jpg?quality=90&strip=all"
       },
       {
         "id":10,
@@ -77,7 +86,8 @@
         "ubicacion": "Cementerio Ecológico",
         "precio": 1800,
         "descripcion": "Entierro en cápsula biodegradable en el Cementerio Ecológico",
-        "incluye": ["Cápsula biodegradable", "Servicio de sepelio", "Certificado de defunción"]
+        "incluye": ["Cápsula biodegradable", "Servicio de sepelio", "Certificado de defunción"],
+        "img":"https://cnnespanol.cnn.com/wp-content/uploads/2017/05/170424132824-capsula-mundi-three-eggs-exlarge-169.jpg?quality=90&strip=all" 
       }
     
 ]

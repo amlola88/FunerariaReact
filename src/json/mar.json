@@ -5,7 +5,8 @@
         "ubicacion": "Mar Mediterráneo",
         "precio": 1500,
         "descripcion": "Plan de cenizas al mar básico en el Mar Mediterráneo",
-        "incluye": ["Ceremonia de despedida", "Dispensador de cenizas", "Certificado de dispersión"]
+        "incluye": ["Ceremonia de despedida", "Dispensador de cenizas", "Certificado de dispersión"],
+        "img":"https://haciaelmar.com/wp-content/uploads/2022/06/arrojar-cenizas-mar-barco-scaled.jpg"
     },
     {
         "id":2,
@@ -13,7 +14,8 @@
         "ubicacion": "Océano Atlántico",
         "precio": 1800,
         "descripcion": "Plan de cenizas al mar premium en el Océano Atlántico",
-        "incluye": ["Ceremonia personalizada", "Dispensador de cenizas biodegradable", "Certificado de dispersión", "Fotografía del evento"]
+        "incluye": ["Ceremonia personalizada", "Dispensador de cenizas biodegradable", "Certificado de dispersión", "Fotografía del evento"],
+        "img":"https://www.aciprensa.com/imagespp/FlorMar-Unsplash-11082022.jpg"
     },
     {
         "id":3,
@@ -21,7 +23,8 @@
         "ubicacion": "Mar de Coral",
         "precio": 1200,
         "descripcion": "Plan de cenizas al mar estándar en el Mar de Coral",
-        "incluye": ["Ceremonia de despedida", "Dispensador de cenizas", "Certificado de dispersión"]
+        "incluye": ["Ceremonia de despedida", "Dispensador de cenizas", "Certificado de dispersión"],
+        "img":"https://www.aciprensa.com/imagespp/FlorMar-Unsplash-11082022.jpg"
     },
     {
         "id":4,
@@ -29,7 +32,8 @@
         "ubicacion": "Océano Pacífico",
         "precio": 2000,
         "descripcion": "Plan de cenizas al mar premium en el Océano Pacífico",
-        "incluye": ["Ceremonia personalizada", "Dispensador de cenizas biodegradable", "Certificado de dispersión", "Asistencia de un guía"]
+        "incluye": ["Ceremonia personalizada", "Dispensador de cenizas biodegradable", "Certificado de dispersión", "Asistencia de un guía"],
+        "img":"https://haciaelmar.com/wp-content/uploads/2022/06/arrojar-cenizas-mar-barco-scaled.jpg"
       },
       {
         "id":5,
@@ -37,7 +41,8 @@
         "ubicacion": "Mar del Norte",
         "precio": 1600,
         "descripcion": "Plan de cenizas al mar en el Mar del Norte",
-        "incluye": ["Ceremonia de despedida", "Dispensador de cenizas", "Certificado de dispersión", "Registro fotográfico"]
+        "incluye": ["Ceremonia de despedida", "Dispensador de cenizas", "Certificado de dispersión", "Registro fotográfico"],
+        "img":"https://www.aciprensa.com/imagespp/FlorMar-Unsplash-11082022.jpg"
       },
       {
         "id":6,
@@ -45,7 +50,8 @@
         "ubicacion": "Mar de Bering",
         "precio": 2200,
         "descripcion": "Plan de cenizas al mar premium en el Mar de Bering",
-        "incluye": ["Ceremonia personalizada", "Dispensador de cenizas biodegradable", "Certificado de dispersión", "Servicio de transporte"]
+        "incluye": ["Ceremonia personalizada", "Dispensador de cenizas biodegradable", "Certificado de dispersión", "Servicio de transporte"],
+        "img":"https://haciaelmar.com/wp-content/uploads/2022/06/arrojar-cenizas-mar-barco-scaled.jpg"
       },
       {
         "id":7,
@@ -53,7 +59,8 @@
         "ubicacion": "Mar Caribe",
         "precio": 1700,
         "descripcion": "Plan de cenizas al mar en el Mar Caribe",
-        "incluye": ["Ceremonia de despedida", "Dispensador de cenizas", "Certificado de dispersión"]
+        "incluye": ["Ceremonia de despedida", "Dispensador de cenizas", "Certificado de dispersión"],
+        "img":"https://www.aciprensa.com/imagespp/FlorMar-Unsplash-11082022.jpg"
       },
       {
         "id":8,
@@ -61,7 +68,8 @@
         "ubicacion": "Mar en la reserva Tairona",
         "precio": 1700,
         "descripcion": "Plan de cenizas al mar en la reserva Tairona",
-        "incluye": ["Ceremonia de despedida", "Dispensador de cenizas", "Certificado de dispersión"]
+        "incluye": ["Ceremonia de despedida", "Dispensador de cenizas", "Certificado de dispersión"],
+        "img":"https://haciaelmar.com/wp-content/uploads/2022/06/arrojar-cenizas-mar-barco-scaled.jpg"
       },
       {
         "id":9,
@@ -69,7 +77,8 @@
         "ubicacion": "Manantial de Aguas Claras",
         "precio": 1500,
         "descripcion": "Servicio para tirar las cenizas de seres queridos en el Manantial de Aguas Claras",
-        "incluye": ["Ceremonia de despedida", "Tirar cenizas en el manantial", "Certificado de dispersión"]
+        "incluye": ["Ceremonia de despedida", "Tirar cenizas en el manantial", "Certificado de dispersión"],
+        "img":"https://www.aciprensa.com/imagespp/FlorMar-Unsplash-11082022.jpg"
       },
       {
         "id":10,
@@ -77,7 +86,8 @@
         "ubicacion": "Manantial de la Cascada",
         "precio": 1800,
         "descripcion": "Servicio para tirar las cenizas de seres queridos en el Manantial de la Cascada",
-        "incluye": ["Ceremonia personalizada", "Tirar cenizas en el manantial", "Certificado de dispersión"]
+        "incluye": ["Ceremonia personalizada", "Tirar cenizas en el manantial", "Certificado de dispersión"],
+        "img":"https://haciaelmar.com/wp-content/uploads/2022/06/arrojar-cenizas-mar-barco-scaled.jpg"
       }
     
 ]

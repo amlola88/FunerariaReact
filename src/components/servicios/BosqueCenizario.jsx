@@ -22,7 +22,8 @@ const BosqueCenizario = () => {
             <p>{bosqueCenizario.ubicacion}</p>
             <p>{bosqueCenizario.precio}</p>
             <p>{bosqueCenizario.descripcion}</p>
-            <p>{bosqueCenizario.incluye}</p>           
+            <p>{bosqueCenizario.incluye}</p> 
+            <img className="imggeneral" src={bosqueCenizario.img}/>          
        </section> 
 
     ))}
