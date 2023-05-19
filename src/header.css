@@ -1,4 +1,10 @@
+.navegador{
+    padding: 20px;
+    margin: 10px;
+}
+
 .header{
+    padding: 20px;
     display: flex;
     flex-direction: row;   
     background-color:rgba(36, 11, 36, 0.51)

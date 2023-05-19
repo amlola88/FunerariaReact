@@ -15,18 +15,22 @@ const CenizasMar = () => {
     useEffect(()=>{mostrarCenizasMar()},[])
   return (
     <div>
-      <Header/>
+      <section className="navegador">
+        <Header/>
+      </section>
+      <section className="Cards">
     {cenizasMar.map((cenizasMar)=>(
-        <section key={cenizasMar.id} className="CardCenizasMar">
+             
+        <section key={cenizasMar.id} className="Card">
             <h1>{cenizasMar.nombre}</h1>
             <p>{cenizasMar.ubicacion}</p>
             <p>{cenizasMar.precio}</p>
             <p>{cenizasMar.descripcion}</p>
             <p>{cenizasMar.incluye}</p>
-            <img className="imggeneral" src={cenizasMar.img}/>            
+            <img className="imggeneral" src={cenizasMar.img}/>                    
        </section> 
-
     ))}
+     </section>
            
 </div>
   )

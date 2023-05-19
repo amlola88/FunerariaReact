@@ -2,69 +2,32 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;   
-    font-size: 16px;
-    for
-       
-}
-
-.App
-{
-    display: flex;
-    flex-direction: row; 
-   
-}
-
-.CardPersonas{
-    display: flex;
-    flex-direction: column;
-     margin: 20px;  
-}
-
-.CardPersonas p{
-     justify-content: center;
-}
-
-.CardMascotas{
-    display: flex;
-    flex-direction: column;
-     margin: 20px;  
-}
-
-.CardMascotas p{
-     justify-content: center;
-}
-
-.CardProductos{
-    display: flex;
-    flex-direction: column;
-     margin: 20px;  
-}
-
-.CardProductos p{
-     justify-content: center;
-}
-
-.CardbosqueCenizario{
-    display: flex;
-    flex-direction: column;
-     margin: 20px;  
-}
-
-.CardbosqueCenizario p{
-     justify-content: center;
-}
-
-.CardCenizasMar{
-    display: flex;
-    flex-direction: column;
-     margin: 20px;  
-}
-
-.CardCenizasMar p{
-     justify-content: center;
+    font-size: 16px;       
 }
 
 .imggeneral{
      width: 250px;
      height: 200px;
 }
+
+.Cards {
+     display: flex;
+     flex-wrap: wrap;
+     padding: 40px;     
+}
+
+.Card{
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+     padding: 20px;
+     margin: 30px;
+     width: 25%;
+     text-align: center;
+     justify-content: center;
+     border: 1px solid rgb(67, 12, 67);
+     border-radius: 8px;
+}
+
+
+    

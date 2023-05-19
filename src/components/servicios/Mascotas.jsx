@@ -15,19 +15,22 @@ const Mascotas = () => {
     useEffect(()=>{mostrarMascotas()},[])
   return (
     <div>
-        <Header/>
+        <section className="navegador">
+            <Header/>
+        </section>
+        <section className="Cards">  
         {mascotas.map((mascotas)=>(
-            <section key={mascotas.id} className="CardMascotas">
-                <h1>{mascotas.nombre}</h1>
-                <p>{mascotas.descripcion}</p>
-                <p>{mascotas.precio}</p>
-                <p>{mascotas.duracion}</p>
-                <p>{mascotas.incluye}</p>
-                <p>{mascotas.condiciones}</p>
-                <img className="imggeneral" src={mascotas.img}/>
-            </section> 
-
+                <section key={mascotas.id} className="Card">
+                    <h1>{mascotas.nombre}</h1>
+                    <p>{mascotas.descripcion}</p>
+                    <p>{mascotas.precio}</p>
+                    <p>{mascotas.duracion}</p>
+                    <p>{mascotas.incluye}</p>
+                    <p>{mascotas.condiciones}</p>
+                    <img className="imggeneral" src={mascotas.img}/>
+                </section>           
         ))}
+          </section>
     </div>      
     
   )

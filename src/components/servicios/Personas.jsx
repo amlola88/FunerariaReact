@@ -16,18 +16,21 @@ const Personas = () => {
 
   return (
     <div>
+        <section className="navegador">
         <Header/>
-        {personas.map((personas)=>(
-            <section key={personas.id} className="CardPersonas">
-                <h1>{personas.nombre}</h1>
-                <p>{personas.descripcion}</p>
-                <p>{personas.precio}</p>
-                <p>{personas.tiempo}</p>
-                <p>{personas.ubicacion}</p>
-                <img className="imggeneral" src={personas.img}/>
-           </section> 
-
+        </section>
+        <section className="Cards">
+        {personas.map((personas)=>(        
+                <section key={personas.id} className="Card">
+                    <h1>{personas.nombre}</h1>
+                    <p>{personas.descripcion}</p>
+                    <p>{personas.precio}</p>
+                    <p>{personas.tiempo}</p>
+                    <p>{personas.ubicacion}</p>
+                    <img className="imggeneral" src={personas.img}/>
+                </section>              
         ))}
+         </section> 
                
     </div>
   )

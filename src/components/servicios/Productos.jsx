@@ -15,9 +15,12 @@ const Productos = () => {
     useEffect(()=>{mostrarProductos()},[])
   return (
     <div>
+      <section className="navegador">
       <Header/>
-    {productos.map((productos)=>(
-        <section key={productos.id} className="CardProductos">
+      </section>
+      <section className="Cards">
+    {productos.map((productos)=>(    
+        <section key={productos.id} className="Card">
             <h1>{productos.nombre}</h1>
             <p>{productos.descripcion}</p>
             <p>{productos.precio}</p>
@@ -26,10 +29,10 @@ const Productos = () => {
             <p>{productos.material}</p>
             <p>{productos.color}</p>
             <img className="imggeneral" src={productos.img}/>
-
-       </section> 
+       </section>
 
     ))}
+  </section>
            
 </div>
   )
