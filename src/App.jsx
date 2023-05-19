@@ -1,5 +1,5 @@
 import { createBrowserRouter,RouterProvider } from "react-router-dom"
-import Menu from "./components/header/Menu"
+import Header from "./components/header/Header"
 import Personas from "./components/servicios/Personas"
 import Mascotas from "./components/servicios/Mascotas"
 import Productos from "./components/servicios/Productos"
@@ -8,8 +8,8 @@ import CenizasMar from "./components/servicios/CenizasMar"
 
 const router=createBrowserRouter([
   {
-    path:"/Menu",
-    element:<Menu/>
+    path:"/Header",
+    element:<Header/>
   },
   {
     path:"/Personas",
